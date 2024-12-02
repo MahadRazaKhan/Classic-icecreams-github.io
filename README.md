@@ -4,6 +4,42 @@ Welcome to **Classic Scoop Icecreams** – your one-stop shop for delicious and 
 
 ![Classic Scoop Icecreams Screenshot](Screenshot_2024_12_02-16.png)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-17.png" alt="Img" width="300"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-18.png" alt="img" width="300"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-19.png" alt="Img" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-20.png" alt="Img" width="300"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-21.png" alt="Img" width="300"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-22.png" alt="Img" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-23.png" alt="Img" width="300"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-24.png" alt="Img" width="300"/>
+    </td>
+    <td align="center">
+      <img src="Screenshot_2024_12_02-25.png" alt="Img" width="300"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Features
@@ -23,4 +59,4 @@ Welcome to **Classic Scoop Icecreams** – your one-stop shop for delicious and 
 
 ---
 
-![Classic Scoop Icecreams Demo](images/classic-scoop-demo.gif)
+![Classic Scoop Icecreams Demo](https://i.pinimg.com/originals/8b/39/4b/8b394b6a982462470fc6e193def3eb91.gif)
