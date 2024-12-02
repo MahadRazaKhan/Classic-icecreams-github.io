@@ -2,7 +2,7 @@
 
 Welcome to **Classic Scoop Icecreams** – your one-stop shop for delicious and refreshing ice creams! Our website allows customers to browse and purchase ice creams in cups, cones, and tubs with a smooth and seamless user experience.
 
-![Classic Scoop Icecreams Screenshot](images/classic-scoop-home.png)
+![Classic Scoop Icecreams Screenshot](Screenshot_2024_12_02-16.png)
 
 ---
 
